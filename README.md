@@ -1,11 +1,7 @@
-### Hi there 👋
+ [![MasterHead](https://th.bing.com/th/id/R.c99e353f761d318322c853c03ebcf21b?rik=X9WPWT8OJyxNig&pid=ImgRaw&r=0)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Antipas Belihu</h1>
 <h3 align="center">A passionate Software developer from Ethiopia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antipasg&label=Profile%20views&color=0e75b6&style=flat" alt="antipasg" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antipasg" alt="antipasg" /></a> </p>
-
+<img  align="right" alt="Coding" width="400" src="https://www.bing.com/th/id/OGC.cb0d139e178018df8b3e778369395ac7?pid=1.7&rurl=https%3a%2f%2ftheninehertz.com%2fwp-content%2fuploads%2f2020%2f06%2ffull-stack-development.gif&ehk=rMJUikzgfJfGY2BgGVZbnowlX%2f9xKUB0vPiUgsYXZCE%3d">
 <p align="left"> <a href="https://twitter.com/_antipass_1" target="blank"><img src="https://img.shields.io/twitter/follow/_antipass_1?logo=twitter&style=for-the-badge" alt="_antipass_1" /></a> </p>
 
 - 🔭 I’m currently working on **Alx Project**
@@ -28,18 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antipasg&show_icons=true&locale=en" alt="antipasg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antipasg&" alt="antipasg" /></p>
-
-<!--
-**AntipasG/AntipasG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
